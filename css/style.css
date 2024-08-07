@@ -18,6 +18,7 @@ main {
   background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   
 }
+<<<<<<< HEAD
 =======
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Oswald:wght@200..700&display=swap');
 
@@ -43,3 +44,9 @@ main{
     flex-grow: 1;
 }
 >>>>>>> numerosMagicos
+=======
+
+h1{
+  text-decoration: underline rgb(150, 29, 29);
+}
+>>>>>>> generaciones
